@@ -34,7 +34,7 @@ mateus@ziraflix.com
 
 [![MixZira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MixZira&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=tokyonight) | ![MixZira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MixZira&theme=tokyonight)
+| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=tokyonight&bg_color=#0D1117) | ![MixZira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MixZira&theme=tokyonight&bg_color=#0D1117)
 | --- | --- |
 
 <h2>Thanks for the visit!</h2>
