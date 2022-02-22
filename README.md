@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/won5jvcn0wlvohiy85awtansy)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=won5jvcn0wlvohiy85awtansy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h2> About Me:</h2>
 - ✨ I’m currently working as CEO at ZIRAFLIX, a startup I founded; <br>
