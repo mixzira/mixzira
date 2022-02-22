@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/won5jvcn0wlvohiy85awtansy)
 
 <h2> About Me:</h2>
 - ✨ I’m currently working as CEO at ZIRAFLIX, a startup I founded; <br>
