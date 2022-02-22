@@ -30,11 +30,11 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 mateus@ziraflix.com
 
-[![MixZira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MixZira&theme=tokyonight)](https://git.io/praveenscience)
+[![MixZira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MixZira&theme=merko)](https://git.io/praveenscience)
 
-| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=tokyonight) | ![MixZira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MixZira&theme=tokyonight)
+| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=merko) | ![MixZira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MixZira&theme=merko)
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MixZira&count_private=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MixZira&count_private=true&theme=merko) |
 
 <h2>Thanks for the visit!</h2>
 
