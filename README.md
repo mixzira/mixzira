@@ -32,11 +32,11 @@ mateus@ziraflix.com
 
 <h2>Stats:</h2>
 
-[![MixZira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MixZira&theme=merko)](https://git.io/praveenscience)
+[![MixZira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MixZira&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=merko) | ![MixZira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MixZira&theme=merko)
+| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=tokyonight) | ![MixZira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MixZira&theme=tokyonight)
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MixZira&count_private=true&theme=merko) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MixZira&count_private=true&theme=tokyonight) |
 
 <h2>Thanks for the visit!</h2>
 
