@@ -8,8 +8,6 @@
 <a href= https://github.com/MixZira?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/MixZira?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
-<a href= https://github.com/MixZira?tab=repositories&q=&type=&language=html&sort= ><img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
-
 <!--
 **MixZira/MixZira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
