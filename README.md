@@ -10,6 +10,11 @@
 </div>
 
 <h2> About Me:</h2>
+- ✨ I’m currently working as CEO at ZIRAFLIX, a startup I founded; 
+- 🎮 I’m passionate about electronic games;
+- 🙃 I’m have XXIII year old;
+- 👨‍💻 I’m a designer by training and self-taught developer.
+
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
