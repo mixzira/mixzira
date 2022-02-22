@@ -23,8 +23,7 @@
 <a href= https://github.com/MixZira?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/MixZira?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/MixZira?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/MixZira?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://blog.artegrafico.net/wp-content/uploads/2019/02/jQuery-logo.png'> </a>
-<a href= https://github.com/MixZira?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
+<a><img width='32px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=MixZira.MixZira)
