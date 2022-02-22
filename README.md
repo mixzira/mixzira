@@ -2,11 +2,11 @@
     <img width="722" src="https://cdn.discordapp.com/attachments/917183221375049728/945738819527909386/background.png">
 </p>
 
-<h1> Hello <developers/> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello <developers/>, my name is Mateus. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
     <p align='center'>
 </p>
 
-<div size='20px'>My name is Mateus. Dreaming is the most effective way to plan for the future. Believing is the accurate way to make it happen. :smile: 
+<div size='20px'>Dreaming is the most effective way to plan for the future. Believing is the accurate way to make it happen. :smile: 
 </div>
 
 <h2> About Me:</h2>
