@@ -40,6 +40,7 @@ mateus@ziraflix.com
 
 | ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=tokyonight) | ![MixZira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MixZira&theme=tokyonight)
 | --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MixZira&layout=compact&theme=github_dark"/> |
 
 <h2>Thanks for the visit!</h2>
 
