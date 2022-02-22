@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=MixZira.MixZira)
+[![Github](https://img.shields.io/github/followers/MixZira?label=Follow&style=social)](https://github.com/MixZira)
