@@ -6,7 +6,7 @@
     <p align='center'>
 </p>
 
-<div size='20px'>My name is Mateus. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>My name is Mateus. Dreaming is the most effective way to plan for the future. Believing is the accurate way to make it happen. :smile: 
 </div>
 
 <h2> About Me:</h2>
