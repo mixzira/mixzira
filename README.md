@@ -9,6 +9,10 @@
 <div size='20px'>Dreaming is the most effective way to plan for the future. Believing is the accurate way to make it happen. :smile: 
 </div>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
 <h2> About Me:</h2>
 - ✨ I’m currently working as CEO at ZIRAFLIX, a startup I founded; <br>
 - 🎮 I’m passionate about electronic games;<br>
