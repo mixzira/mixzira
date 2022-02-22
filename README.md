@@ -32,7 +32,9 @@
 <a href='https://github.com/MixZira'><img width='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
-mateus@ziraflix.com
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/319321727630835712)](https://discord.com/users/319321727630835712)
+                            
 
 <h2>Stats:</h2>
 
@@ -44,4 +46,5 @@ mateus@ziraflix.com
 <h2>Thanks for the visit!</h2>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=MixZira.MixZira)
+
 [![Github](https://img.shields.io/github/followers/MixZira?label=Follow&style=social)](https://github.com/MixZira)
