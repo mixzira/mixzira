@@ -27,11 +27,6 @@
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747299198455859/mysql.png'></a>
 <a href='https://github.com/MixZira'><img width='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
 
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.discordapp.com/attachments/917183221375049728/945747299613675530/photoshop.png'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.discordapp.com/attachments/917183221375049728/945747298711904336/ilustrador.png'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.discordapp.com/attachments/917183221375049728/945747298112114808/experiencia.png'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.discordapp.com/attachments/917183221375049728/945747297814331462/depois-dos-efeitos.png'></a>
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <a href='https://www.linkedin.com/in/mateus-magalh%C3%A3es-00430720a/'><img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href='https://github.com/MixZira'><img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
