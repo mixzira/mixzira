@@ -31,6 +31,6 @@
 mateus@ziraflix.com
 
 
-
+<h2>Thanks for watching!</h2>
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=MixZira.MixZira)
 [![Github](https://img.shields.io/github/followers/MixZira?label=Follow&style=social)](https://github.com/MixZira)
