@@ -38,7 +38,7 @@ mateus@ziraflix.com
 
 [![MixZira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MixZira&theme=github_dark)](https://git.io/praveenscience)
 
-| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mixzira&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MixZira&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
 | --- | --- |
 
 <h2>Thanks for the visit!</h2>
