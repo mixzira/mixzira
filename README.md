@@ -41,6 +41,8 @@ mateus@ziraflix.com
 | ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MixZira&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
 | --- | --- |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MixZira)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Thanks for the visit!</h2>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=MixZira.MixZira)
