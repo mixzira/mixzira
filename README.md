@@ -34,8 +34,7 @@ mateus@ziraflix.com
 
 | ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&show_icons=true&theme=tokyonight) | ![MixZira GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MixZira&theme=tokyonight)
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MixZira&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=MixZira&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MixZira&theme=tokyonight) |
 <h2>Thanks for the visit!</h2>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=MixZira.MixZira)
