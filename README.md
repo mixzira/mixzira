@@ -25,6 +25,11 @@
 <a href='https://github.com/MixZira'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 <a href='https://github.com/MixZira'><img width='32px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href='https://www.linkedin.com/in/mateus-magalh%C3%A3es-00430720a/'><img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href='https://github.com/MixZira'><img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=MixZira.MixZira)
 [![Github](https://img.shields.io/github/followers/MixZira?label=Follow&style=social)](https://github.com/MixZira)
