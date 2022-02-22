@@ -22,7 +22,7 @@
 <a href='https://github.com/MixZira'><img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
 <a href='https://github.com/MixZira'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a href='https://github.com/MixZira'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a href='https://github.com/MixZira'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
+<a href='https://github.com/MixZira'><img width ='32px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747299835998278/reagir.png'></a>
 <a href='https://github.com/MixZira'><img width='32px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
