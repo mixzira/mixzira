@@ -2,7 +2,7 @@
     <img width="722" src="https://cdn.discordapp.com/attachments/917183221375049728/945738819527909386/background.png">
 </p>
 
-<h1> Hello <developers/>, my name is Mateus. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello < developers />, my name is Mateus. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
     <p align='center'>
 </p>
 
