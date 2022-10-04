@@ -15,7 +15,7 @@
 - ✨ I’m currently working as CEO at ZIRAFLIX, a startup I founded; <br>
 - 🎮 I’m passionate about electronic games;<br>
 - 🙃 I’m have XXIII year old;<br>
-- 🎓 I’m a designer by training and self-taught developer.<br>
+- 🎓 I’m a software engineer student.<br>
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
