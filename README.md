@@ -11,8 +11,6 @@
 
 <h2> About Me:</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=won5jvcn0wlvohiy85awtansy&cover_image=true&theme=natemoo-re&bar_color=e70835&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=won5jvcn0wlvohiy85awtansy&redirect=true)
-
 - 🎧 I’m always listening to something, music is part of my life; <br>
 - ✨ I’m currently working as CEO at ZIRAFLIX, a startup I founded; <br>
 - 🎮 I’m passionate about electronic games;<br>
