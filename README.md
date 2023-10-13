@@ -1,3 +1,4 @@
+
 <p align="center">
     <img width="722" src="https://cdn.discordapp.com/attachments/917183221375049728/945738819527909386/background.png">
 </p>
@@ -9,7 +10,7 @@
 <div size='20px'>Dreaming is the most effective way to plan for the future. Believing is the accurate way to make it happen. :smile: 
 </div>
 
-<h2> About Me:</h2>
+<h2> ABOUT ME:</h2>
 
 - 🎧 I’m always listening to something, music is part of my life; <br>
 - 🎮 I’m passionate about electronic games;<br>
@@ -31,7 +32,9 @@
 <h2>Stats:</h2>
 </br>
 
-| ![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=github_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MixZira&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
-| --- | --- |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MixZira&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124)](https://github.com/mixzira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixzira&layout=compact&theme=transparent&card_width=1124)](https://github.com/mixzira)
+[![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=transparent&card_width=1124)](https://github.com/mixzira)
+
 
 <h2>Thanks for the visit!</h2>
