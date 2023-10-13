@@ -32,9 +32,9 @@
 <h2>Stats:</h2>
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MixZira&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124)](https://github.com/mixzira)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixzira&layout=compact&theme=transparent&card_width=1124)](https://github.com/mixzira)
-[![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=transparent&card_width=1124)](https://github.com/mixzira)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MixZira&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228)](https://github.com/mixzira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixzira&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/mixzira)
+[![MixZira's github stats](https://github-readme-stats.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/mixzira)
 
 
 <h2>Thanks for the visit!</h2>
