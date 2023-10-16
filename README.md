@@ -24,18 +24,17 @@
 <a href='https://github.com/MixZira'><img width ='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg'></a>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg'></a>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
-          
+
 <h2> BACK-END SKILLS: </h2>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg'></a>
 <a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg'></a>
 
 <h2> DATA SKILLS: </h2>
 <a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg'></a>
+
+<h2> LEARNING SKILLS: </h2>
+<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'></a>
+<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
 
 <h2>STATS:</h2>
 </br>
