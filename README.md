@@ -32,7 +32,7 @@
 <h2> DATA SKILLS: </h2>
 <a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg'></a>
 
-<h2> LEARNING SKILLS: </h2>
+<h2> LEARNING: </h2>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'></a>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
 
