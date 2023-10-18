@@ -35,6 +35,8 @@
 <h2> LEARNING: </h2>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'></a>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
+<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg'></a>
+<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg'></a>
 
 <h2>STATS:</h2>
 </br>
