@@ -11,6 +11,9 @@
 </div>
 
 <h2> ABOUT ME:</h2>
+Passionate about game development and servers. Since I was 14 years old, I have studied programming independently and acquired skills to create high-quality software. By studying Software engineering I intend to enrich my theoretical and practical knowledge in the area, increasingly seeking excellence in the development of the projects I participate in.
+
+I have always set out to understand how the games I once played work, in order to improve and/or modify the experience during the game. I had projects and servers in games like Unturned, Minecraft, MTA (Grand Theft Auto: San Andreas), FiveM (Grand Theft Auto V), ECO and Project Zomboid. In addition to gaming and server technologies, I work casually on applications that connect different platforms with REST APIs using NodeJs, Webhooks and the like.
 
 - 🎧 I’m always listening to something, music is part of my life; <br>
 - 🎮 I’m passionate about electronic games;<br>
