@@ -15,7 +15,7 @@
 
 - 🎧 I’m always listening to something, music is part of my life; <br>
 - 🎮 I’m passionate about electronic games;<br>
-- 🙃 I’m have XXIV year old;<br>
+- 🙃 I’m XXIV years old;<br>
 - 🎓 I’m a Software Engineer student.<br>
 
 <h2>STATS:</h2>
