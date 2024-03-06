@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
     <img width="722" src="https://cdn.discordapp.com/attachments/917183221375049728/945738819527909386/background.png">
-</p>
+</p> -->
 
 <h1> Hello < developers />, my name is Mateus. </h1>
     <p align='center'>
