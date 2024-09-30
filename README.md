@@ -30,8 +30,8 @@
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg'></a>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'></a>
 <a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg'></a>
+<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg'></a>
+<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg'></a>
 <a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'></a>
 <a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'></a>
 <a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg'></a>
