@@ -26,13 +26,13 @@ Currently, I serve as a technical leader of cross-functional teams, ensuring the
 - 🎓 I’m a Game Designer student.<br>
 
 <h2> Languages: </h2>
-<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/HTML.webp'></a>
-<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/CSS.webp'></a>
-<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/JavaScript.webp'></a>
-<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/TypeScript.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/HTML2.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/CSS2.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/JavaScript2.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/TypeScript2.webp'></a>
 <a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/CPlusPlus.webp'></a>
 <a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/CSharp.webp'></a>
-<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/Lua.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/Lua2.webp'></a>
 
 <h2> Frameworks & Libraries: </h2>
 <a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/React.webp'></a>
