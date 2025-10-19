@@ -11,35 +11,47 @@
 </div>
 
 <h2> ABOUT ME:</h2>
-<p>Passionate about game development and servers. Since I was 14 years old, I have studied programming independently and acquired skills to create high-quality software. By studying Software engineering I intend to enrich my theoretical and practical knowledge in the area, increasingly seeking excellence in the development of the projects I participate in. I have always set out to understand how the games I once played work, in order to improve and/or modify the experience during the game. I had projects and servers in games like Unturned, Minecraft, MTA (Grand Theft Auto: San Andreas), FiveM (Grand Theft Auto V), ECO and Project Zomboid.</p>
+<p>
+Full-Stack Developer with over 8 years of experience creating solutions for games, servers, websites, web applications, and APIs. My career began in game development and scripting, starting with Unturned using Lua, which became a core language in my stack. Since then, I have expanded my expertise across multiple gaming platforms and projects.
+
+I have worked on titles such as Minecraft, MTA (GTA: San Andreas), FiveM (GTA V), ECO, and Project Zomboid, developing systems and mods capable of supporting thousands of simultaneous users. I also founded and managed my own company, leading technological structuring and product development, while providing services for other companies and projects.
+
+Currently, I serve as a technical leader of cross-functional teams, ensuring the delivery of scalable, efficient, and high-quality solutions. My experience combines hands-on technical development with strategic management, offering a comprehensive perspective on product and system creation.
+</p>
 
 - 🎧 I’m always listening to something, music is part of my life; <br>
 - 🎮 I’m passionate about electronic games;<br>
-- 🙃 I’m have XXV year old;<br>
+- 🙃 I’m have XXVI year old;<br>
 - 🎓 I’m a Software Engineer student.<br>
 - 🎓 I’m a Game Designer student.<br>
 
-<h2>STATS:</h2>
-</br>
+<h2> Languages: </h2>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/HTML.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/CSS.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/JavaScript.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/TypeScript.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/CPlusPlus.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/CSharp.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/Lua.webp'></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MixZira&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228)](https://github.com/mixzira)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixzira&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/mixzira)
-[![MixZira's github stats](https://github-readme-stats-mu-red-43.vercel.app/api?username=MixZira&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS)](https://github.com/mixzira)
+<h2> Frameworks & Libraries: </h2>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/React.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/NextJS.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/JQuery.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/NodeJS.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/Express.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/TailwindCSS.webp'></a>
 
-<h2> SKILLS: </h2>
-<a href='https://github.com/MixZira'><img width ='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'></a>
+<h2> Databases: </h2>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/MySQL.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/MariaDB.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/MongoDB.webp'></a>
 
-<h2> LEARNING: </h2>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg'></a>    
-<a href='https://github.com/MixZira'><img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg'></a>
-<a href='https://github.com/MixZira'><img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg'></a>
+<h2> Game Engines & Platforms: </h2>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/UnrealEngine.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/RAGE.webp'></a>
+
+<h2> Tools & DevOps: </h2>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/Docker.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/Git.webp'></a>
+<a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/GitHub.webp'></a>
