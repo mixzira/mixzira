@@ -19,6 +19,7 @@ I have worked on titles such as Minecraft, MTA (GTA: San Andreas), FiveM (GTA V)
 Currently, I serve as a technical leader of cross-functional teams, ensuring the delivery of scalable, efficient, and high-quality solutions. My experience combines hands-on technical development with strategic management, offering a comprehensive perspective on product and system creation.
 </p>
 
+- Brazilian <span>&#x1f1e7;&#x1f1f7;</span>
 - 🎧 I’m always listening to something, music is part of my life; <br>
 - 🎮 I’m passionate about electronic games;<br>
 - 🙃 I’m have XXVI year old;<br>
