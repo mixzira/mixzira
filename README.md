@@ -12,19 +12,18 @@
 
 <h2> ABOUT ME:</h2>
 <p>
-Full-Stack Developer with over 8 years of experience creating solutions for games, servers, websites, web applications, and APIs. My career began in game development and scripting, starting with Unturned using Lua, which became a core language in my stack. Since then, I have expanded my expertise across multiple gaming platforms and projects.
+Full-stack developer, self-taught, with 6+ years of experience building solutions for games, servers and web applications. Currently Co-founder and Managing Director at OMEX Studio.
 
-I have worked on titles such as Minecraft, MTA (GTA: San Andreas), FiveM (GTA V), ECO, and Project Zomboid, developing systems and mods capable of supporting thousands of simultaneous users. I also founded and managed my own company, leading technological structuring and product development, while providing services for other companies and projects.
+My journey began in game scripting and modding with Unturned and Lua, which became a core language in my stack. Since then, I've built systems and mods for Minecraft, MTA (GTA: San Andreas), FiveM (GTA V), ECO and Project Zomboid, capable of serving thousands of concurrent players.
 
-Currently, I serve as a technical leader of cross-functional teams, ensuring the delivery of scalable, efficient, and high-quality solutions. My experience combines hands-on technical development with strategic management, offering a comprehensive perspective on product and system creation.
+Along the way, I founded my first company, ZIRAFLIX, and later went from Tech Lead to CTO at WinsVue, defining technology architecture and leading teams of 55+ people.
+
+Today, at OMEX Studio, I lead the studio's entire technology front while running the business: website, e-commerce, internal tools and infrastructure, as we expand beyond FiveM into original game development and outsourcing.
 </p>
 
 - Brazilian <span>&#x1f1e7;&#x1f1f7;</span>
 - 🎧 I’m always listening to something, music is part of my life; <br>
 - 🎮 I’m passionate about electronic games;<br>
-- 🙃 I’m have XXVI year old;<br>
-- 🎓 I’m a Software Engineer student.<br>
-- 🎓 I’m a Game Designer student.<br>
 
 <h2> Languages: </h2>
 <a href='https://github.com/MixZira'><img src='https://content.mixzira.dev/Github/HTML2.webp'></a>
